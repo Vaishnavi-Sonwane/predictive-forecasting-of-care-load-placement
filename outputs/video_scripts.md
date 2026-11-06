@@ -12,7 +12,7 @@ Target length: about 2 minutes. Replace any bracketed parts only with accurate d
 >
 > The source is not a complete daily record, so the project aggregates to weeks and labels its assumptions. The supplied extract ends on 21 December 2025. It also does not include open capacity, pending referrals, staffing, or the placement pipeline. For that reason, the dashboard cannot estimate a real capacity-breach probability or children waiting for placement. Those measures would need additional operational data.
 >
-> The project files, paper, and setup instructions are available at [repository or paper URL]. The live dashboard is at [deployed URL].
+> The project files and setup instructions are available at `https://github.com/Vaishnavi-Sonwane/predictive-forecasting-of-care-load-placement`. The research paper is at `https://github.com/Vaishnavi-Sonwane/predictive-forecasting-of-care-load-placement/blob/main/outputs/research_paper.md`. The live dashboard is at `https://uac-care-load-forecast.streamlit.app/`.
 
 Suggested on-screen sequence: show the dashboard settings, care-load chart, discharge estimate, model comparison, data-quality tab, and CSV download control. Use a refreshed dataset for the recording if available.
 
