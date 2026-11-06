@@ -11,6 +11,12 @@ A reproducible decision-support prototype for exploring short-term UAC care-load
 - `outputs/model_comparison.csv`: 20-origin walk-forward scores by target and horizon.
 - `outputs/illustrative_forecast_from_supplied_extract.csv`: forecast generated from the supplied extract, anchored at its final week (21 Dec 2025).
 
+## Public links
+
+- GitHub repository: https://github.com/Vaishnavi-Sonwane/predictive-forecasting-of-care-load-placement
+- Research paper: https://github.com/Vaishnavi-Sonwane/predictive-forecasting-of-care-load-placement/blob/main/outputs/research_paper.md
+- Live dashboard: deployment pending Streamlit Community Cloud sign-in and app authorization.
+
 ## Run locally
 
 ```bash
