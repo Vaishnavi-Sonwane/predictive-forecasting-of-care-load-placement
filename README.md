@@ -15,7 +15,7 @@ A reproducible decision-support prototype for exploring short-term UAC care-load
 
 - GitHub repository: https://github.com/Vaishnavi-Sonwane/predictive-forecasting-of-care-load-placement
 - Research paper: https://github.com/Vaishnavi-Sonwane/predictive-forecasting-of-care-load-placement/blob/main/outputs/research_paper.md
-- Live dashboard: deployment pending Streamlit Community Cloud sign-in and app authorization.
+- Live dashboard: https://uac-care-load-forecast.streamlit.app/
 
 ## Run locally
 
